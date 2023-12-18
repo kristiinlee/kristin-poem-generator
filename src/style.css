@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(80, 46, 46);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+    color: rgb(213, 208, 208);
+}
+.container {
+    margin: 120px auto;
+    max-width: 600px;
+
+}
+
+h1 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 1.5;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+form {
+    padding: 20px;
+    background-color: rgb(213, 208, 208);
+    border-radius: 10px;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.instructions {
+    padding: 16px;
+    border: 1px solid rgb(213, 208, 208);
+    width: 80%;
+    font-size: 16px;
+    line-height: 20px;
+    border-radius: 10px;
+}
+
+.button {
+    margin-left: 10px;
+    background-color: rgb(80, 46, 46);
+    color: rgb(213, 208, 208);
+    border: none;
+    border-radius: 10px;
+    padding: 15px 20px
+}
+
+.poem {
+    font-size: 16px;
+    background-color: rgb(213, 208, 208);
+    padding: 20px;
+    line-height: 2;
+    border-left: 3px solid rgb(80, 46, 46);
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 20px;
+    font-weight: 600;
+    opacity: 0.5;
+}
